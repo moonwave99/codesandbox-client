@@ -6,6 +6,7 @@
     "type": "git",
     "url": "https://github.com/codesandbox/codesandbox-client"
   },
+  "homepage": "https://moonwave99.github.io/codesandbox-client",
   "license": "GPL-3.0",
   "workspaces": {
     "packages": [
